@@ -1,4 +1,3 @@
-#kokeru
 Kontrol Kebersihan dan Kerapihan Ruangan (KOKERU)<br>
 Tugas Projek Perangkat Lunak SMT 5<br>
 diampu Pak Aris Joker<br>
